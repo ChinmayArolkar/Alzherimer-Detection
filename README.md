@@ -1,2 +1,2 @@
-# Advance-Data-Science
+# Alzheimer's Detection
 Research Paper
